@@ -1,6 +1,17 @@
+
+a library from ccoenraets/slackforce
+this library is customized . it only for support /case command to create case.
+
+
+
+
+
+
+readme notes from creator= 
+
 # Slackforce
 
-A vsimple Node.js application that acts as a Slash Command message broker between Slack and Salesforce.
+A simple Node.js application that acts as a Slash Command message broker between Slack and Salesforce.
 
 Watch [this video](https://youtu.be/xB-1SsUoBHk) to see the application in action.
  
